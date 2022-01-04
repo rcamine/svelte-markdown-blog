@@ -46,3 +46,7 @@ tags:
   - personal
 ---
 ```
+
+## Deploying
+
+My recommendation is using [Vercel](https://vercel.com/docs/concepts/git), it's very easy to integrate with Github and it will automatically deploy to your domain after every push on your repository.
